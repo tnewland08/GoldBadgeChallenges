@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\bin\Debug\01_Cafe.exe.config
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\bin\Debug\01_Cafe.exe
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\bin\Debug\01_Cafe.pdb
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\obj\Debug\01_Cafe.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\obj\Debug\01_Cafe.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\obj\Debug\01_Cafe.exe
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\01_Cafe\obj\Debug\01_Cafe.pdb
