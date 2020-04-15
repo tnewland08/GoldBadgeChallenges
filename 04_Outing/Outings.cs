@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace _04_Outing
 {
+    public enum EventTypes
+    {
+        Golf = 1,
+        Bowling,
+        AmusementPark,
+        Concert
+    }
     class Outings
     {
-        public enum EventTypes
-        {
-            Golf = 1,
-            Bowling,
-            AmusementPark,
-            Concert
-        }
-
-
         public EventTypes Event { get; set; }
         public int Attendance { get; set; }
         public DateTime Date { get; set; }

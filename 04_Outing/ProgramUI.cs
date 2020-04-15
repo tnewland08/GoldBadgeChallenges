@@ -82,7 +82,7 @@ namespace _04_Outing
                 "4. Concert");
             string outingAsString = Console.ReadLine();
             int outingAsInt = int.Parse(outingAsString);
-            newOuting.Event = (Outings.EventTypes)outingAsInt;
+            newOuting.Event = (EventTypes)outingAsInt;
             Console.WriteLine(newOuting.Event);
 
             Console.WriteLine("Enter the number of employees in attendance:");
@@ -139,10 +139,10 @@ namespace _04_Outing
             DateTime dateThree = new DateTime(2019, 07, 10);
             DateTime dateFour = new DateTime(2019, 09, 25);
 
-            Outings outingOne = new Outings(Outings.EventTypes.Bowling, 10, dateOne, 30.25);
-            Outings outingTwo = new Outings(Outings.EventTypes.AmusementPark, 20, dateTwo, 375.65);
-            Outings outingThree = new Outings(Outings.EventTypes.Concert, 25, dateThree, 750.75);
-            Outings outingFour = new Outings(Outings.EventTypes.Golf, 12, dateFour, 315.48);
+            Outings outingOne = new Outings(EventTypes.Bowling, 10, dateOne, 30.25);
+            Outings outingTwo = new Outings(EventTypes.AmusementPark, 20, dateTwo, 375.65);
+            Outings outingThree = new Outings(EventTypes.Concert, 25, dateThree, 750.75);
+            Outings outingFour = new Outings(EventTypes.Golf, 12, dateFour, 315.48);
 
             _outingsRepo.AddNewOuting(outingOne);
             _outingsRepo.AddNewOuting(outingTwo);
