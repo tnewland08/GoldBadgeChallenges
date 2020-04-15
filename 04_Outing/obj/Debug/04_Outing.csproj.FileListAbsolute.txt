@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\obj\Debug\04_Outing.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\obj\Debug\04_Outing.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\bin\Debug\04_Outing.exe.config
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\bin\Debug\04_Outing.exe
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\bin\Debug\04_Outing.pdb
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\obj\Debug\04_Outing.exe
+C:\ElevenFiftyProjects\.NETProjects\01_Cafe\04_Outing\obj\Debug\04_Outing.pdb
